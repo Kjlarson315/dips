@@ -1,7 +1,7 @@
 Ingredients
--Tomatoes
--Onions
--Cilantro
+- Tomatoes
+- Onions
+- Cilantro
 
 Directions
 
